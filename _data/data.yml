@@ -1,0 +1,114 @@
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Son Doan
+    tagline: MBA/MS in International Political Economy
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: caoson510@gmail.com
+    phone: 270-404-5518
+    website: scdo222.github.io #do not add http://
+    linkedin: soncdoan
+    github: scdo222
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Vietnamese
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+
+career-profile:
+    title: Career Profile
+    summary: |
+      A bilingual MBA with strong communication and established customer service skills from 8 years of experience in the dining and retail industry. Proven record to work independently and utilize resources sufficiently.
+
+education:
+    - degree: Master of Science in International Political Economy
+      university: University of Texas at Dallas, Richardson, TX
+      time: 2016 - 2019
+
+    - degree: Master of Business Administration 
+      university: University of Kentucky, Lexington, KY
+      time: 2013 - 2015
+          
+    - degree: Bachalor of Business Administration in Finance and Management
+      university: University of Kentucky
+      time: 2009 - 2013
+
+experiences:
+    - role: Office Assistant
+      time: June 2017 - Present
+      company: Multicultural Center, Richardson, TX
+      details: |
+          - Operate the front desk and interfaces with a variety of visitors, including: students, event attendees, and event organizers
+          - Assist in coordinating on-campus cultural events, field communications to correct parties, and provide a hospitable experience for all visitors
+          - Provide office support through a variety of functions, including managing and configuring information in MS Excel-based company database
+
+    - role: Retail/Rental Technician
+      time: November 2015 - April 2016
+      company: Gondola Square Ski & Sport, Steamboat Springs, CO
+      details: |
+          - Assisted resort guests in outfitting prior to skiing or snowboarding, included working with a wide range of people, from children to older visitors, in finding the right clothing and skiing equipment that fit their personal needs
+          - Recorded customer transactions, averaging 60+ transactions per day, and documented associated rental forms to ensure all equipment was consistently accounted for
+          - Advised customers on appropriate equipment selections to suit their experience, and generated revenue through upselling skilled customers
+
+    - role: Retail Associate
+      time: May 2015 - September 2015
+      company: ARAMARK, Denali National Park, AK
+      details: |
+          - Boosted team efficiency by reducing customer wait by 12%, and improved order accuracy by 20% in 3 months through labor specialization
+          - Assisted customers in dining and camping selections, answered questions, and provided suggestions, ensuring a satisfactory and personalized recreational experience for guests
+          
+    - role: Student Manager
+      time: January 2010 - May 2015
+      company: ARAMARK, Lexington, KY
+      details: |
+          - Reduced labor costs from 35% to 22% within 2-month period at no impact to customer satisfaction or service quality
+          - Directed 12 student employees in operating a university cafeteria that served an average of 800+ students daily
+          - Oversaw all aspects of employee management, including: hiring new employees, scheduling work shifts, training employees, and directing workstations
+          
+projects:
+    title: Projects
+
+    assignments:
+      - title: "Belt & Road Initiative: General Perception Among Vietnamese and Chinese"
+        link: "https://www.dropbox.com/s/xe04knlnespfcnd/BRI%20-%20General%20Perception%20Among%20Vietnamese%20and%20Chinese.docx?dl=0"
+        tagline: "In this research, I conducted an online survey to study general perception among Vietnamese and Chinese students in regard to China's ambitious Belt & Road Initiative. Paper presented at 2019 SPSA Annual Meeting, Austin, TX."
+
+      - title: "Economic Growth & Military Expenditures: The Case of ASEAN member countries 2005-2017"
+        link: "https://www.dropbox.com/s/h8egcc6o3guimna/Economic%20Growth%20and%20Military%20Expenditures%20-%20The%20case%20of%20ASEAN%20member%20countries%202005-2017.docx?dl=0"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: "World Happiness Report 2016 - A Strutural Equation Model Analysis"
+        link: "https://www.dropbox.com/s/lasy8rbu6qfia4i/World%20Happiness%20Report%202016-%20A%20Structural%20Equation%20Model%20Analysis.docx?dl=0"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: "Doing Nothing in Territorial Disputes (1816-2001)"
+        link: "https://www.dropbox.com/s/iori4sja7r8k4cs/Doing%20Nothing%20in%20Territorial%20Disputes%20%281816-2001%29.docx?dl=0"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+volunteer:
+    - name: Outdoor Adventures at University of Texas at Dallas 
+      time: August 2017 - Present
+      role: Treasurer
+      
+    - name: WRFL 88.1 FM Radio Free Lexington 
+      time: August 2014 - May 2015
+      role: Radio DJ
+      
+    - name: Alpha Phi Omega National Service Fraternity - Alpha Zeta Chapter 
+      time: January 2012 - May 2013
+      role: Intramural Chair
+      
+skills:
+    - name: Microsoft Office Suite
+    - name: Stata, R
+    - name: University of Dallas's Student Leadership Certificate

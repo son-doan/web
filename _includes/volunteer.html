@@ -1,0 +1,32 @@
+{% assign volunteer = site.data.data.volunteer %}
+{% if volunteer %}
+<section class="volunteer-section section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-people-carry fa-stack-1x fa-inverse"></i>
+    </span>
+    Volunteer Experience
+  </h2>
+
+  {% for experience in volunteer %}
+  <div class="item">
+      
+    <div class="meta">
+        
+      <div class="upper-row">
+        <span class="name">{{ experience.name }}</span>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
+        
+        <div class="role">{{ experience.role }}</div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+    {% endfor %}
+
+
+</section><!--//volunteer-section-->
+{% endif %}
